@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html>
 <head>
 <style>
 body {
@@ -44,6 +46,8 @@ p {
 </style>
 </head>
 
+<body>
+
 ![简历照](small.jpg)
 
 <br>
@@ -81,5 +85,6 @@ p {
 ## 荣誉奖励
 
 - edit or remove according to yourself
+</body>
 
-
+<html>
