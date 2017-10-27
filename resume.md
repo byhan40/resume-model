@@ -1,41 +1,4 @@
-![简历照](small.jpg)
-
-<br>
-
-<b id="name">byhan</b>
-
-## 求职意向
-
-<b id="career">Python工程师</b>以及其他相关职位
-
-## 个人信息
-
-学 校 | 专 业 | 手 机 | 邮 箱|
------------ | ------------------| ----------- | ---------------|
-非常厉害的大学 | 非常厉害的专业 | 155******** | <span>byhan40</span>@163.com |
-
-## 专业技能
-
-- professional skill 1
-- professional skill 2
-- professional skill 3
-- professional skill 100
-
-## 项目经历
-
-- edit your project time，type，your responsibility，content，
-- project 1000
-- pro 10000
-- p 10000000000000000
-
-## 在校经历
-
-- like above
-
-## 荣誉奖励
-
-- edit or remove according to yourself
-
+<head>
 <style>
 body {
   border-width: 0px;
@@ -79,3 +42,44 @@ p {
   font-size: 14px;
 }
 </style>
+</head>
+
+![简历照](small.jpg)
+
+<br>
+
+<b id="name">byhan</b>
+
+## 求职意向
+
+<b id="career">Python工程师</b>以及其他相关职位
+
+## 个人信息
+
+学 校 | 专 业 | 手 机 | 邮 箱|
+----------- | ------------------| ----------- | ---------------|
+非常厉害的大学 | 非常厉害的专业 | 155******** | <span>byhan40</span>@163.com |
+
+## 专业技能
+
+- professional skill 1
+- professional skill 2
+- professional skill 3
+- professional skill 100
+
+## 项目经历
+
+- edit your project time，type，your responsibility，content，
+- project 1000
+- pro 10000
+- p 10000000000000000
+
+## 在校经历
+
+- like above
+
+## 荣誉奖励
+
+- edit or remove according to yourself
+
+
